@@ -20,23 +20,19 @@
 
 <p align="center">
   <b>Listado de Pedidos</b><br>
-  <img src="docs/screenshots/order-list.png" alt="Listado de pedidos" width="600" /><br>
-  <i>Arrastra aquí tu captura del listado real.</i>
+  <img src="docs/Imagenes/ListarPedidoyDetalleVista.png" alt="Listado de pedidos" width="600" /><br>
 </p>
 
 <p align="center">
   <b>Crear Pedido</b><br>
-  <img src="docs/screenshots/create-order.png" alt="Formulario crear pedido" width="600" /><br>
+  <img src="docs/Imagenes/CrearPedidoVista.png" alt="Formulario crear pedido" width="600" /><br>
 </p>
 
-<p align="center">
-  <b>Detalle de Pedido</b><br>
-  <img src="docs/screenshots/order-detail.png" alt="Detalle de pedido" width="600" /><br>
-</p>
 
 <p align="center">
   <b>Tests / Validaciones</b><br>
-  <img src="docs/screenshots/tests.png" alt="Ejecución de tests" width="600" /><br>
+  <img src="docs/Imagenes/TestBackend.png" alt="Ejecución de tests backend" width="600" /><br>
+  <img src="docs/Imagenes/TestFrontEnd.png" alt="Ejecución de tests frontend" width="600" /><br>
 </p>
 
 ---
